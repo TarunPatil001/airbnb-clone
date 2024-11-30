@@ -1,4 +1,5 @@
 'use client';
+
 import Heading from './Heading';
 
 interface HeadingProps {
